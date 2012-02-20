@@ -9,5 +9,5 @@ This is one possible solution to the practical midtem. Things to note here:
         + Button starts with btn
         + Text input starts with txt
         + Hidden elements starts hdn
-5. Notice the schema.sql file, which is the SQL script to create my database
+5. Notice the schema.sql file, which is the SQL script to create my database.
 
